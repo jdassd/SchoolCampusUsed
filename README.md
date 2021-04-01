@@ -9,6 +9,7 @@
 **需要用到后台的话，可以额外部署这个后台项目，后台的前后端使用的是 JSP + Servlet 持久层使用 Mybatis 数据库为 Mysql**
 ### D2Admin + SpringBoot + Vue.js 版本
 **修改中**
+**预计将于2021.5.1日左右发布**
 ## 展示
 #### 首页
 ![](https://github.com/jdassd/imgRepository/blob/master/TIM%E6%88%AA%E5%9B%BE20191220203515.png)
