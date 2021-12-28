@@ -1,4 +1,5 @@
 # Vue + SSM 的校园二手交易平台
+# 没想到项目私有会把Star弄没，好多星星都没了，/(ㄒoㄒ)/~~
 ## 既然已经点进来了，不如随手点个 Star 谢谢！
 ## 技术点
 #### Vue.js + Spring + SpringMVC + Mybatis + Mysql
